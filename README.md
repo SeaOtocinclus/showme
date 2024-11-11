@@ -32,7 +32,7 @@ This repository contains the link for downloading and code for visualizing SHOWM
 ```
 
 # News
-- [x] Top baseline 3D Recnostructions and Camera Poses for **quantitative** and **qualitative** comparison 
+- [x] Top baseline 3D Reconstructions and Camera Poses for **quantitative** and **qualitative** comparison 
 - [x] Dataset Release
 - [x] Visualization Scripts Release
 
@@ -40,7 +40,7 @@ This repository contains the link for downloading and code for visualizing SHOWM
 ### [Link](https://download.europe.naverlabs.com/showme)
 
 # 3D recnostruction models and Camera Poses
-```To make qualitative and quantitative comparison easier, we release best baseline 3D reconstruction models(mesh files) and the corresponding camera poses, researchers can download these and use for comparision instead of running the whole pipeline again```
+```To make qualitative and quantitative comparison easier, we release best baseline 3D reconstruction models(mesh files) and the corresponding camera poses, researchers can download these and use for comparison instead of running the whole pipeline again```
 ### [showme_baseline_recons_camposes](https://download.europe.naverlabs.com/showme/showme_baseline_recons_camposes.tar)
 
 
